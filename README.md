@@ -51,7 +51,7 @@ Use the GUI to:
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/screenshot1.png)
+![Main Interface](images/screenshot1.PNG)
 
 ### Copying Files with Specific Extensions
 ![Copying Files with Specific Extensions](images/screenshot2.png)
@@ -61,16 +61,5 @@ Use the GUI to:
 
 ---
 
-## Folder Structure
-
-```plaintext
-directory-copier/
-│
-├── directory_copier.py      # Main application code
-├── copy_files.py            # Helper functions for file operations
-├── log/                     # Directory containing log files
-├── screenshots/             # Folder for screenshots (used in README)
-└── README.md                # Project documentation
-```
 
 
