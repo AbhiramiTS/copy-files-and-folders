@@ -54,10 +54,10 @@ Use the GUI to:
 ![Main Interface](images/screenshot1.PNG)
 
 ### Copying Files with Specific Extensions
-![Copying Files with Specific Extensions](images/screenshot2.png)
+![Copying Files with Specific Extensions](images/screenshot2.PNG)
 
 ### Log File View Option
-![Log File View Option](images/screenshot3.png)
+![Log File View Option](images/screenshot3.PNG)
 
 ---
 
