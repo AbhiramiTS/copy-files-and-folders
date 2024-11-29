@@ -28,7 +28,6 @@ pip install pillow
 - Clone the repository
 ```bash
 git clone https://github.com/AbhiramiTS/copy-files-and-folders.git
-cd directory-copier
 ```
 
 - Run the script:
