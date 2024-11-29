@@ -36,17 +36,6 @@ cd directory-copier
 python user_input.py
 ```
 
-## How to Use the GUI
-
-Use the GUI to:
-- Select source and destination directories.
-- Choose whether to copy specific file types or entire directories.
-- **Compression options are not available yet.**
-- Click **Start Copy** to begin the process.
-- View logs (if available) after the operation by clicking the **View Log File** link.
-
----
-
 ## Screenshots
 
 ### Main Interface
@@ -59,6 +48,24 @@ Use the GUI to:
 ![Log File View Option](images/screenshot3.PNG)
 
 ---
+
+## How to Use the GUI:
+
+1. **Select Source and Destination Directories**:
+   - Use the **Browse** buttons to select the source and destination directories from your file system.
+   - Or you can **type the path** directly into the input boxes for both source and destination locations.
+
+2. **Choose File Type or Entire Directory**:
+   - Select whether you want to copy **specific file types (by extension)** or copy **entire directories**.
+
+3. **Compression Options**:
+   - **Compression options are not available for now.**
+
+4. **Start the Copy Process**:
+   - Click the **Start Copy** button to begin copying the selected files or folders from the source to the destination.
+
+5. **View Logs**:
+   - After the operation, you can click the **View Log File** link to view the log of the copy process (if available), to monitor progress and troubleshoot any issues.
 
 
 
