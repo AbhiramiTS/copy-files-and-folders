@@ -1,5 +1,4 @@
-# Directory Copier
-
+# Copy Specific Files or Folders
 **Directory Copier** is a user-friendly GUI tool built using Python and Tkinter that simplifies the process of copying files or entire directories. The tool includes features such as selective file extension filtering and detailed logging for every operation. 
 
 ⚠ **Note:** The compression feature is planned but not implemented yet.
