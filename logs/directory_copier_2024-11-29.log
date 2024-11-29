@@ -1,0 +1,258 @@
+2024-11-29 11:39:45,847 - INFO - C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater is a valid directory.
+2024-11-29 11:39:45,848 - INFO - Copying the whole directory.
+2024-11-29 11:39:45,865 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\.DS_Store -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\.DS_Store
+2024-11-29 11:39:45,871 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\.gitignore -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\.gitignore
+2024-11-29 11:39:45,877 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\index.js -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\index.js
+2024-11-29 11:39:45,883 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\package-lock.json -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\package-lock.json
+2024-11-29 11:39:45,898 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\package.json -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\package.json
+2024-11-29 11:39:45,904 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\playwright.config.js -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\playwright.config.js
+2024-11-29 11:39:45,921 - INFO - Copied: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home\README.md -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater\README.md
+2024-11-29 11:39:45,921 - INFO - Copied entire directory: C:/Users/My Account/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home -> C:/Users/My Account/OneDrive/Documents/temp/OneDC_Updater
+2024-11-29 11:49:16,021 - INFO - C:/Users/My Account/Downloads is a valid directory.
+2024-11-29 11:49:16,034 - INFO - Copied: C:/Users/My Account/Downloads\1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\1.jpeg
+2024-11-29 11:49:16,050 - INFO - Copied: C:/Users/My Account/Downloads\1c35cb17-dc30-45c3-bd85-821a5b44d1e6.png -> C:/Users/My Account/OneDrive/Documents/Images\1c35cb17-dc30-45c3-bd85-821a5b44d1e6.png
+2024-11-29 11:49:16,067 - INFO - Copied: C:/Users/My Account/Downloads\2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\2.jpeg
+2024-11-29 11:49:16,074 - INFO - Copied: C:/Users/My Account/Downloads\97159611560c1d5d62a5378.21310078_1a0f25f887_1691.jpg -> C:/Users/My Account/OneDrive/Documents/Images\97159611560c1d5d62a5378.21310078_1a0f25f887_1691.jpg
+2024-11-29 11:49:16,080 - INFO - Copied: C:/Users/My Account/Downloads\Aadhaar_Pushpa-1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Aadhaar_Pushpa-1.jpg
+2024-11-29 11:49:16,095 - INFO - Copied: C:/Users/My Account/Downloads\Abhay signature.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhay signature.jpg
+2024-11-29 11:49:16,119 - INFO - Copied: C:/Users/My Account/Downloads\Abhay_passport_Size.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhay_passport_Size.jpg
+2024-11-29 11:49:16,131 - INFO - Copied: C:/Users/My Account/Downloads\Abhi Email.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhi Email.jpg
+2024-11-29 11:49:16,134 - INFO - Copied: C:/Users/My Account/Downloads\ABHIRAMI.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ABHIRAMI.jpg
+2024-11-29 11:49:16,149 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2023-07-13 230300.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2023-07-13 230300.jpg
+2024-11-29 11:49:16,162 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2023-09-27 231611.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2023-09-27 231611.jpg
+2024-11-29 11:49:16,174 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-07-14 063356.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-07-14 063356.jpg
+2024-11-29 11:49:16,187 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-04 171940.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-04 171940.jpg
+2024-11-29 11:49:16,199 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-09 110441.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-09 110441.jpg
+2024-11-29 11:49:16,212 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-15 124526.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-15 124526.jpg
+2024-11-29 11:49:16,227 - INFO - Copied: C:/Users/My Account/Downloads\avatar-(ProfilePictureMaker.com).png -> C:/Users/My Account/OneDrive/Documents/Images\avatar-(ProfilePictureMaker.com).png
+2024-11-29 11:49:16,250 - INFO - Copied: C:/Users/My Account/Downloads\back aadhar.jpg -> C:/Users/My Account/OneDrive/Documents/Images\back aadhar.jpg
+2024-11-29 11:49:16,253 - INFO - Copied: C:/Users/My Account/Downloads\bankruptcy.png -> C:/Users/My Account/OneDrive/Documents/Images\bankruptcy.png
+2024-11-29 11:49:16,283 - INFO - Copied: C:/Users/My Account/Downloads\Birth certificate.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Birth certificate.jpg
+2024-11-29 11:49:16,286 - INFO - Copied: C:/Users/My Account/Downloads\Card - process.png -> C:/Users/My Account/OneDrive/Documents/Images\Card - process.png
+2024-11-29 11:49:16,318 - INFO - Copied: C:/Users/My Account/Downloads\Caste certificate.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Caste certificate.jpg
+2024-11-29 11:49:16,339 - INFO - Copied: C:/Users/My Account/Downloads\company license (2022 - 23).jpg -> C:/Users/My Account/OneDrive/Documents/Images\company license (2022 - 23).jpg
+2024-11-29 11:49:16,350 - INFO - Copied: C:/Users/My Account/Downloads\compressor 1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\compressor 1.jpeg
+2024-11-29 11:49:16,363 - INFO - Copied: C:/Users/My Account/Downloads\compressor 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\compressor 2.jpeg
+2024-11-29 11:49:16,379 - INFO - Copied: C:/Users/My Account/Downloads\d85e730f-a0ab-4899-99a5-551c8af14917.png -> C:/Users/My Account/OneDrive/Documents/Images\d85e730f-a0ab-4899-99a5-551c8af14917.png
+2024-11-29 11:49:16,393 - INFO - Copied: C:/Users/My Account/Downloads\DL.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\DL.jpeg
+2024-11-29 11:49:16,426 - INFO - Copied: C:/Users/My Account/Downloads\DSC_0863.JPG -> C:/Users/My Account/OneDrive/Documents/Images\DSC_0863.JPG
+2024-11-29 11:49:16,443 - INFO - Copied: C:/Users/My Account/Downloads\e37c432f-1820-498b-9b6c-ec25c5eee2ca.png -> C:/Users/My Account/OneDrive/Documents/Images\e37c432f-1820-498b-9b6c-ec25c5eee2ca.png
+2024-11-29 11:49:16,458 - INFO - Copied: C:/Users/My Account/Downloads\ec3e3fdf2c9d17c0e293434416c2503f.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\ec3e3fdf2c9d17c0e293434416c2503f.jpeg
+2024-11-29 11:49:16,474 - INFO - Copied: C:/Users/My Account/Downloads\enhancd_LE_auto_x2 pro ready.jpg -> C:/Users/My Account/OneDrive/Documents/Images\enhancd_LE_auto_x2 pro ready.jpg
+2024-11-29 11:49:16,489 - INFO - Copied: C:/Users/My Account/Downloads\face.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\face.jpeg
+2024-11-29 11:49:16,505 - INFO - Copied: C:/Users/My Account/Downloads\ff.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\ff.jpeg
+2024-11-29 11:49:16,528 - INFO - Copied: C:/Users/My Account/Downloads\front aadhar.jpg -> C:/Users/My Account/OneDrive/Documents/Images\front aadhar.jpg
+2024-11-29 11:49:16,541 - INFO - Copied: C:/Users/My Account/Downloads\hero-tips-for-going-back-to-school-as-a-student-with-a-disability-mobile.png -> C:/Users/My Account/OneDrive/Documents/Images\hero-tips-for-going-back-to-school-as-a-student-with-a-disability-mobile.png
+2024-11-29 11:49:16,555 - INFO - Copied: C:/Users/My Account/Downloads\Hotpot (1).png -> C:/Users/My Account/OneDrive/Documents/Images\Hotpot (1).png
+2024-11-29 11:49:16,570 - INFO - Copied: C:/Users/My Account/Downloads\Hotpot.png -> C:/Users/My Account/OneDrive/Documents/Images\Hotpot.png
+2024-11-29 11:49:16,582 - INFO - Copied: C:/Users/My Account/Downloads\icons.png -> C:/Users/My Account/OneDrive/Documents/Images\icons.png
+2024-11-29 11:49:16,602 - INFO - Copied: C:/Users/My Account/Downloads\image.png -> C:/Users/My Account/OneDrive/Documents/Images\image.png
+2024-11-29 11:49:16,605 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20180323-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20180323-WA0002.jpg
+2024-11-29 11:49:16,618 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20200313-WA0005.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20200313-WA0005.jpg
+2024-11-29 11:49:16,629 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210306-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210306-WA0002.jpg
+2024-11-29 11:49:16,641 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210311-WA0008.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210311-WA0008.jpg
+2024-11-29 11:49:16,654 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210619-WA0000.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210619-WA0000.jpg
+2024-11-29 11:49:16,666 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211004-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211004-WA0002.jpg
+2024-11-29 11:49:16,678 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211206-WA0011.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211206-WA0011.jpg
+2024-11-29 11:49:16,691 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211206-WA0012.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211206-WA0012.jpg
+2024-11-29 11:49:16,712 - INFO - Copied: C:/Users/My Account/Downloads\IMG20191020170149.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG20191020170149.jpg
+2024-11-29 11:49:16,745 - INFO - Copied: C:/Users/My Account/Downloads\IMG20241029145110.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG20241029145110.jpg
+2024-11-29 11:49:16,769 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20191119_181046.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20191119_181046.jpg
+2024-11-29 11:49:16,788 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20191227_144636.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20191227_144636.jpg
+2024-11-29 11:49:16,813 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20200416_230644.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20200416_230644.jpg
+2024-11-29 11:49:16,837 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20200518_231543.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20200518_231543.jpg
+2024-11-29 11:49:16,862 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20201227_205442.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20201227_205442.jpg
+2024-11-29 11:49:16,884 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20210311_131756.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20210311_131756.jpg
+2024-11-29 11:49:16,910 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20210314_154632.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20210314_154632.jpg
+2024-11-29 11:49:16,925 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230715_183128_854-fotor-2024012121489.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230715_183128_854-fotor-2024012121489.jpg
+2024-11-29 11:49:16,944 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230715_183128_854.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230715_183128_854.jpg
+2024-11-29 11:49:16,964 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230730_114248_169.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230730_114248_169.jpg
+2024-11-29 11:49:16,982 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230826_202544_447.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230826_202544_447.jpg
+2024-11-29 11:49:16,999 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230826_202544_447_auto_custom_light_ai.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230826_202544_447_auto_custom_light_ai.jpg
+2024-11-29 11:49:17,017 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240411_133150_011.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240411_133150_011.jpg
+2024-11-29 11:49:17,034 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240623_171352_.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240623_171352_.jpg
+2024-11-29 11:49:17,058 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240623_171352_974.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240623_171352_974.jpg
+2024-11-29 11:49:17,075 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240716_083231_537.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240716_083231_537.jpg
+2024-11-29 11:49:17,098 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20241029_21433767.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20241029_21433767.jpeg
+2024-11-29 11:49:17,113 - INFO - Copied: C:/Users/My Account/Downloads\laptop_submission.png -> C:/Users/My Account/OneDrive/Documents/Images\laptop_submission.png
+2024-11-29 11:49:17,131 - INFO - Copied: C:/Users/My Account/Downloads\MakePassportPhoto.jpg -> C:/Users/My Account/OneDrive/Documents/Images\MakePassportPhoto.jpg
+2024-11-29 11:49:17,147 - INFO - Copied: C:/Users/My Account/Downloads\mudra date change pg 2 (2022).jpg -> C:/Users/My Account/OneDrive/Documents/Images\mudra date change pg 2 (2022).jpg
+2024-11-29 11:49:17,163 - INFO - Copied: C:/Users/My Account/Downloads\my-passport-photo.jpg -> C:/Users/My Account/OneDrive/Documents/Images\my-passport-photo.jpg
+2024-11-29 11:49:17,168 - INFO - Copied: C:/Users/My Account/Downloads\output.png -> C:/Users/My Account/OneDrive/Documents/Images\output.png
+2024-11-29 11:49:17,172 - INFO - Copied: C:/Users/My Account/Downloads\Passport size real.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Passport size real.jpg
+2024-11-29 11:49:17,182 - INFO - Copied: C:/Users/My Account/Downloads\Passport size.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Passport size.jpg
+2024-11-29 11:49:17,195 - INFO - Copied: C:/Users/My Account/Downloads\Photo.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\Photo.jpeg
+2024-11-29 11:49:17,207 - INFO - Copied: C:/Users/My Account/Downloads\pic.jpg -> C:/Users/My Account/OneDrive/Documents/Images\pic.jpg
+2024-11-29 11:49:17,221 - INFO - Copied: C:/Users/My Account/Downloads\picofme.png -> C:/Users/My Account/OneDrive/Documents/Images\picofme.png
+2024-11-29 11:49:17,237 - INFO - Copied: C:/Users/My Account/Downloads\PP.jpg -> C:/Users/My Account/OneDrive/Documents/Images\PP.jpg
+2024-11-29 11:49:17,252 - INFO - Copied: C:/Users/My Account/Downloads\P_20160526_175558_BF_1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20160526_175558_BF_1.jpg
+2024-11-29 11:49:17,271 - INFO - Copied: C:/Users/My Account/Downloads\P_20170617_211054.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20170617_211054.jpg
+2024-11-29 11:49:17,295 - INFO - Copied: C:/Users/My Account/Downloads\P_20221008_212357.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20221008_212357.jpg
+2024-11-29 11:49:17,311 - INFO - Copied: C:/Users/My Account/Downloads\Review.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Review.jpg
+2024-11-29 11:49:17,323 - INFO - Copied: C:/Users/My Account/Downloads\rm.jpg -> C:/Users/My Account/OneDrive/Documents/Images\rm.jpg
+2024-11-29 11:49:17,328 - INFO - Copied: C:/Users/My Account/Downloads\rolex.jpg -> C:/Users/My Account/OneDrive/Documents/Images\rolex.jpg
+2024-11-29 11:49:17,363 - INFO - Copied: C:/Users/My Account/Downloads\sample.png -> C:/Users/My Account/OneDrive/Documents/Images\sample.png
+2024-11-29 11:49:17,376 - INFO - Copied: C:/Users/My Account/Downloads\Screenshot.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Screenshot.jpg
+2024-11-29 11:49:17,391 - INFO - Copied: C:/Users/My Account/Downloads\side 1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\side 1.jpeg
+2024-11-29 11:49:17,405 - INFO - Copied: C:/Users/My Account/Downloads\side 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\side 2.jpeg
+2024-11-29 11:49:17,420 - INFO - Copied: C:/Users/My Account/Downloads\smile-DBCC.jpg -> C:/Users/My Account/OneDrive/Documents/Images\smile-DBCC.jpg
+2024-11-29 11:49:17,433 - INFO - Copied: C:/Users/My Account/Downloads\sofa 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\sofa 2.jpeg
+2024-11-29 11:49:17,438 - INFO - Copied: C:/Users/My Account/Downloads\sofa F.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sofa F.jpg
+2024-11-29 11:49:17,441 - INFO - Copied: C:/Users/My Account/Downloads\sofa F2.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sofa F2.jpg
+2024-11-29 11:49:17,456 - INFO - Copied: C:/Users/My Account/Downloads\sofa.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\sofa.jpeg
+2024-11-29 11:49:17,469 - INFO - Copied: C:/Users/My Account/Downloads\sqft.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sqft.jpg
+2024-11-29 11:49:17,493 - INFO - Copied: C:/Users/My Account/Downloads\Thumbs.png.1.png -> C:/Users/My Account/OneDrive/Documents/Images\Thumbs.png.1.png
+2024-11-29 11:49:17,508 - INFO - Copied: C:/Users/My Account/Downloads\ticket cancellation 2.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ticket cancellation 2.jpg
+2024-11-29 11:49:17,522 - INFO - Copied: C:/Users/My Account/Downloads\ticket cancellation.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ticket cancellation.jpg
+2024-11-29 11:49:17,535 - INFO - Copied: C:/Users/My Account/Downloads\Ticket-Global Job Fair-TQ-Y2024E258B19174.png -> C:/Users/My Account/OneDrive/Documents/Images\Ticket-Global Job Fair-TQ-Y2024E258B19174.png
+2024-11-29 11:49:17,549 - INFO - Copied: C:/Users/My Account/Downloads\VirtualBox_MacOS error 2.png -> C:/Users/My Account/OneDrive/Documents/Images\VirtualBox_MacOS error 2.png
+2024-11-29 11:49:17,556 - INFO - Copied: C:/Users/My Account/Downloads\vyavasaya badhratha form 1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\vyavasaya badhratha form 1.jpg
+2024-11-29 11:49:17,571 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2020-11-16 at 3.20.57 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2020-11-16 at 3.20.57 AM.jpeg
+2024-11-29 11:49:17,575 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2021-11-28 at 11.24.41 AM n.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2021-11-28 at 11.24.41 AM n.jpg
+2024-11-29 11:49:17,590 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2021-11-28 at 11.24.41 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2021-11-28 at 11.24.41 AM.jpeg
+2024-11-29 11:49:17,606 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2022-06-16 at 12.21.36 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2022-06-16 at 12.21.36 PM.jpeg
+2024-11-29 11:49:17,622 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2022-08-08 at 4.59.15 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2022-08-08 at 4.59.15 PM.jpeg
+2024-11-29 11:49:17,639 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-02-27 at 2.12.55 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-02-27 at 2.12.55 PM.jpeg
+2024-11-29 11:49:17,657 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-03-31 at 7.24.22 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-03-31 at 7.24.22 PM.jpeg
+2024-11-29 11:49:17,669 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-05-22 at 3.52.30 PM.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-05-22 at 3.52.30 PM.jpg
+2024-11-29 11:49:17,686 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-07-25 at 10.57.58 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-07-25 at 10.57.58 AM.jpeg
+2024-11-29 11:49:17,702 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-08-02 at 12.49.41 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-08-02 at 12.49.41 PM.jpeg
+2024-11-29 11:49:17,718 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-12-29 at 5.09.39 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-12-29 at 5.09.39 PM.jpeg
+2024-11-29 11:49:17,735 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-12-29 at 5.27.14 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-12-29 at 5.27.14 PM.jpeg
+2024-11-29 11:49:17,754 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-02-06 at 10.35.50 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-02-06 at 10.35.50 PM.jpeg
+2024-11-29 11:49:17,772 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpeg
+2024-11-29 11:49:17,778 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpg
+2024-11-29 11:49:17,795 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-20 at 5.34.25 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-20 at 5.34.25 PM.jpeg
+2024-11-29 11:49:17,812 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-05-25 at 11.41.36 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-05-25 at 11.41.36 AM.jpeg
+2024-11-29 11:49:17,830 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-02 at 10.08.11 PM (1).jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-02 at 10.08.11 PM (1).jpeg
+2024-11-29 11:49:17,847 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-02 at 10.08.11 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-02 at 10.08.11 PM.jpeg
+2024-11-29 11:49:17,864 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-22 at 9.39.34 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-22 at 9.39.34 AM.jpeg
+2024-11-29 11:49:17,910 - INFO - Copied: C:/Users/My Account/Downloads\_MG_7975a copy.jpg -> C:/Users/My Account/OneDrive/Documents/Images\_MG_7975a copy.jpg
+2024-11-29 11:49:17,911 - INFO - All files have been copied!.
+2024-11-29 11:51:24,619 - INFO - C:/Users/My Account/Downloads is a valid directory.
+2024-11-29 11:51:24,628 - INFO - Copied: C:/Users/My Account/Downloads\1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\1.jpeg
+2024-11-29 11:51:24,639 - INFO - Copied: C:/Users/My Account/Downloads\1c35cb17-dc30-45c3-bd85-821a5b44d1e6.png -> C:/Users/My Account/OneDrive/Documents/Images\1c35cb17-dc30-45c3-bd85-821a5b44d1e6.png
+2024-11-29 11:51:24,644 - INFO - Copied: C:/Users/My Account/Downloads\2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\2.jpeg
+2024-11-29 11:51:24,650 - INFO - Copied: C:/Users/My Account/Downloads\97159611560c1d5d62a5378.21310078_1a0f25f887_1691.jpg -> C:/Users/My Account/OneDrive/Documents/Images\97159611560c1d5d62a5378.21310078_1a0f25f887_1691.jpg
+2024-11-29 11:51:24,656 - INFO - Copied: C:/Users/My Account/Downloads\Aadhaar_Pushpa-1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Aadhaar_Pushpa-1.jpg
+2024-11-29 11:51:24,660 - INFO - Copied: C:/Users/My Account/Downloads\Abhay signature.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhay signature.jpg
+2024-11-29 11:51:24,665 - INFO - Copied: C:/Users/My Account/Downloads\Abhay_passport_Size.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhay_passport_Size.jpg
+2024-11-29 11:51:24,680 - INFO - Copied: C:/Users/My Account/Downloads\Abhi Email.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Abhi Email.jpg
+2024-11-29 11:51:24,684 - INFO - Copied: C:/Users/My Account/Downloads\ABHIRAMI.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ABHIRAMI.jpg
+2024-11-29 11:51:24,689 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2023-07-13 230300.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2023-07-13 230300.jpg
+2024-11-29 11:51:24,692 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2023-09-27 231611.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2023-09-27 231611.jpg
+2024-11-29 11:51:24,695 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-07-14 063356.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-07-14 063356.jpg
+2024-11-29 11:51:24,699 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-04 171940.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-04 171940.jpg
+2024-11-29 11:51:24,701 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-09 110441.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-09 110441.jpg
+2024-11-29 11:51:24,704 - INFO - Copied: C:/Users/My Account/Downloads\Annotation 2024-10-15 124526.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Annotation 2024-10-15 124526.jpg
+2024-11-29 11:51:24,709 - INFO - Copied: C:/Users/My Account/Downloads\avatar-(ProfilePictureMaker.com).png -> C:/Users/My Account/OneDrive/Documents/Images\avatar-(ProfilePictureMaker.com).png
+2024-11-29 11:51:24,719 - INFO - Copied: C:/Users/My Account/Downloads\back aadhar.jpg -> C:/Users/My Account/OneDrive/Documents/Images\back aadhar.jpg
+2024-11-29 11:51:24,722 - INFO - Copied: C:/Users/My Account/Downloads\bankruptcy.png -> C:/Users/My Account/OneDrive/Documents/Images\bankruptcy.png
+2024-11-29 11:51:24,739 - INFO - Copied: C:/Users/My Account/Downloads\Birth certificate.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Birth certificate.jpg
+2024-11-29 11:51:24,743 - INFO - Copied: C:/Users/My Account/Downloads\Card - process.png -> C:/Users/My Account/OneDrive/Documents/Images\Card - process.png
+2024-11-29 11:51:24,760 - INFO - Copied: C:/Users/My Account/Downloads\Caste certificate.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Caste certificate.jpg
+2024-11-29 11:51:24,782 - INFO - Copied: C:/Users/My Account/Downloads\company license (2022 - 23).jpg -> C:/Users/My Account/OneDrive/Documents/Images\company license (2022 - 23).jpg
+2024-11-29 11:51:24,785 - INFO - Copied: C:/Users/My Account/Downloads\compressor 1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\compressor 1.jpeg
+2024-11-29 11:51:24,788 - INFO - Copied: C:/Users/My Account/Downloads\compressor 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\compressor 2.jpeg
+2024-11-29 11:51:24,794 - INFO - Copied: C:/Users/My Account/Downloads\d85e730f-a0ab-4899-99a5-551c8af14917.png -> C:/Users/My Account/OneDrive/Documents/Images\d85e730f-a0ab-4899-99a5-551c8af14917.png
+2024-11-29 11:51:24,798 - INFO - Copied: C:/Users/My Account/Downloads\DL.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\DL.jpeg
+2024-11-29 11:51:24,819 - INFO - Copied: C:/Users/My Account/Downloads\DSC_0863.JPG -> C:/Users/My Account/OneDrive/Documents/Images\DSC_0863.JPG
+2024-11-29 11:51:24,824 - INFO - Copied: C:/Users/My Account/Downloads\e37c432f-1820-498b-9b6c-ec25c5eee2ca.png -> C:/Users/My Account/OneDrive/Documents/Images\e37c432f-1820-498b-9b6c-ec25c5eee2ca.png
+2024-11-29 11:51:24,828 - INFO - Copied: C:/Users/My Account/Downloads\ec3e3fdf2c9d17c0e293434416c2503f.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\ec3e3fdf2c9d17c0e293434416c2503f.jpeg
+2024-11-29 11:51:24,843 - INFO - Copied: C:/Users/My Account/Downloads\enhancd_LE_auto_x2 pro ready.jpg -> C:/Users/My Account/OneDrive/Documents/Images\enhancd_LE_auto_x2 pro ready.jpg
+2024-11-29 11:51:24,847 - INFO - Copied: C:/Users/My Account/Downloads\face.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\face.jpeg
+2024-11-29 11:51:24,851 - INFO - Copied: C:/Users/My Account/Downloads\ff.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\ff.jpeg
+2024-11-29 11:51:24,858 - INFO - Copied: C:/Users/My Account/Downloads\front aadhar.jpg -> C:/Users/My Account/OneDrive/Documents/Images\front aadhar.jpg
+2024-11-29 11:51:24,863 - INFO - Copied: C:/Users/My Account/Downloads\hero-tips-for-going-back-to-school-as-a-student-with-a-disability-mobile.png -> C:/Users/My Account/OneDrive/Documents/Images\hero-tips-for-going-back-to-school-as-a-student-with-a-disability-mobile.png
+2024-11-29 11:51:24,868 - INFO - Copied: C:/Users/My Account/Downloads\Hotpot (1).png -> C:/Users/My Account/OneDrive/Documents/Images\Hotpot (1).png
+2024-11-29 11:51:24,872 - INFO - Copied: C:/Users/My Account/Downloads\Hotpot.png -> C:/Users/My Account/OneDrive/Documents/Images\Hotpot.png
+2024-11-29 11:51:24,875 - INFO - Copied: C:/Users/My Account/Downloads\icons.png -> C:/Users/My Account/OneDrive/Documents/Images\icons.png
+2024-11-29 11:51:24,883 - INFO - Copied: C:/Users/My Account/Downloads\image.png -> C:/Users/My Account/OneDrive/Documents/Images\image.png
+2024-11-29 11:51:24,887 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20180323-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20180323-WA0002.jpg
+2024-11-29 11:51:24,890 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20200313-WA0005.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20200313-WA0005.jpg
+2024-11-29 11:51:24,893 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210306-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210306-WA0002.jpg
+2024-11-29 11:51:24,896 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210311-WA0008.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210311-WA0008.jpg
+2024-11-29 11:51:24,899 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20210619-WA0000.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20210619-WA0000.jpg
+2024-11-29 11:51:24,902 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211004-WA0002.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211004-WA0002.jpg
+2024-11-29 11:51:24,906 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211206-WA0011.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211206-WA0011.jpg
+2024-11-29 11:51:24,909 - INFO - Copied: C:/Users/My Account/Downloads\IMG-20211206-WA0012.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG-20211206-WA0012.jpg
+2024-11-29 11:51:24,920 - INFO - Copied: C:/Users/My Account/Downloads\IMG20191020170149.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG20191020170149.jpg
+2024-11-29 11:51:24,935 - INFO - Copied: C:/Users/My Account/Downloads\IMG20241029145110.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG20241029145110.jpg
+2024-11-29 11:51:24,945 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20191119_181046.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20191119_181046.jpg
+2024-11-29 11:51:24,955 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20191227_144636.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20191227_144636.jpg
+2024-11-29 11:51:24,970 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20200416_230644.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20200416_230644.jpg
+2024-11-29 11:51:24,987 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20200518_231543.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20200518_231543.jpg
+2024-11-29 11:51:25,003 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20201227_205442.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20201227_205442.jpg
+2024-11-29 11:51:25,015 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20210311_131756.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20210311_131756.jpg
+2024-11-29 11:51:25,031 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20210314_154632.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20210314_154632.jpg
+2024-11-29 11:51:25,036 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230715_183128_854-fotor-2024012121489.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230715_183128_854-fotor-2024012121489.jpg
+2024-11-29 11:51:25,048 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230715_183128_854.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230715_183128_854.jpg
+2024-11-29 11:51:25,058 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230730_114248_169.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230730_114248_169.jpg
+2024-11-29 11:51:25,065 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230826_202544_447.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230826_202544_447.jpg
+2024-11-29 11:51:25,074 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20230826_202544_447_auto_custom_light_ai.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20230826_202544_447_auto_custom_light_ai.jpg
+2024-11-29 11:51:25,079 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240411_133150_011.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240411_133150_011.jpg
+2024-11-29 11:51:25,093 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240623_171352_.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240623_171352_.jpg
+2024-11-29 11:51:25,103 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240623_171352_974.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240623_171352_974.jpg
+2024-11-29 11:51:25,109 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20240716_083231_537.jpg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20240716_083231_537.jpg
+2024-11-29 11:51:25,115 - INFO - Copied: C:/Users/My Account/Downloads\IMG_20241029_21433767.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\IMG_20241029_21433767.jpeg
+2024-11-29 11:51:25,120 - INFO - Copied: C:/Users/My Account/Downloads\laptop_submission.png -> C:/Users/My Account/OneDrive/Documents/Images\laptop_submission.png
+2024-11-29 11:51:25,127 - INFO - Copied: C:/Users/My Account/Downloads\MakePassportPhoto.jpg -> C:/Users/My Account/OneDrive/Documents/Images\MakePassportPhoto.jpg
+2024-11-29 11:51:25,133 - INFO - Copied: C:/Users/My Account/Downloads\mudra date change pg 2 (2022).jpg -> C:/Users/My Account/OneDrive/Documents/Images\mudra date change pg 2 (2022).jpg
+2024-11-29 11:51:25,137 - INFO - Copied: C:/Users/My Account/Downloads\my-passport-photo.jpg -> C:/Users/My Account/OneDrive/Documents/Images\my-passport-photo.jpg
+2024-11-29 11:51:25,140 - INFO - Copied: C:/Users/My Account/Downloads\output.png -> C:/Users/My Account/OneDrive/Documents/Images\output.png
+2024-11-29 11:51:25,144 - INFO - Copied: C:/Users/My Account/Downloads\Passport size real.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Passport size real.jpg
+2024-11-29 11:51:25,156 - INFO - Copied: C:/Users/My Account/Downloads\Passport size.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Passport size.jpg
+2024-11-29 11:51:25,159 - INFO - Copied: C:/Users/My Account/Downloads\Photo.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\Photo.jpeg
+2024-11-29 11:51:25,161 - INFO - Copied: C:/Users/My Account/Downloads\pic.jpg -> C:/Users/My Account/OneDrive/Documents/Images\pic.jpg
+2024-11-29 11:51:25,166 - INFO - Copied: C:/Users/My Account/Downloads\picofme.png -> C:/Users/My Account/OneDrive/Documents/Images\picofme.png
+2024-11-29 11:51:25,179 - INFO - Copied: C:/Users/My Account/Downloads\PP.jpg -> C:/Users/My Account/OneDrive/Documents/Images\PP.jpg
+2024-11-29 11:51:25,185 - INFO - Copied: C:/Users/My Account/Downloads\P_20160526_175558_BF_1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20160526_175558_BF_1.jpg
+2024-11-29 11:51:25,192 - INFO - Copied: C:/Users/My Account/Downloads\P_20170617_211054.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20170617_211054.jpg
+2024-11-29 11:51:25,206 - INFO - Copied: C:/Users/My Account/Downloads\P_20221008_212357.jpg -> C:/Users/My Account/OneDrive/Documents/Images\P_20221008_212357.jpg
+2024-11-29 11:51:25,210 - INFO - Copied: C:/Users/My Account/Downloads\Review.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Review.jpg
+2024-11-29 11:51:25,213 - INFO - Copied: C:/Users/My Account/Downloads\rm.jpg -> C:/Users/My Account/OneDrive/Documents/Images\rm.jpg
+2024-11-29 11:51:25,219 - INFO - Copied: C:/Users/My Account/Downloads\rolex.jpg -> C:/Users/My Account/OneDrive/Documents/Images\rolex.jpg
+2024-11-29 11:51:25,253 - INFO - Copied: C:/Users/My Account/Downloads\sample.png -> C:/Users/My Account/OneDrive/Documents/Images\sample.png
+2024-11-29 11:51:25,256 - INFO - Copied: C:/Users/My Account/Downloads\Screenshot.jpg -> C:/Users/My Account/OneDrive/Documents/Images\Screenshot.jpg
+2024-11-29 11:51:25,261 - INFO - Copied: C:/Users/My Account/Downloads\side 1.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\side 1.jpeg
+2024-11-29 11:51:25,264 - INFO - Copied: C:/Users/My Account/Downloads\side 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\side 2.jpeg
+2024-11-29 11:51:25,269 - INFO - Copied: C:/Users/My Account/Downloads\smile-DBCC.jpg -> C:/Users/My Account/OneDrive/Documents/Images\smile-DBCC.jpg
+2024-11-29 11:51:25,271 - INFO - Copied: C:/Users/My Account/Downloads\sofa 2.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\sofa 2.jpeg
+2024-11-29 11:51:25,275 - INFO - Copied: C:/Users/My Account/Downloads\sofa F.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sofa F.jpg
+2024-11-29 11:51:25,278 - INFO - Copied: C:/Users/My Account/Downloads\sofa F2.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sofa F2.jpg
+2024-11-29 11:51:25,282 - INFO - Copied: C:/Users/My Account/Downloads\sofa.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\sofa.jpeg
+2024-11-29 11:51:25,285 - INFO - Copied: C:/Users/My Account/Downloads\sqft.jpg -> C:/Users/My Account/OneDrive/Documents/Images\sqft.jpg
+2024-11-29 11:51:25,300 - INFO - Copied: C:/Users/My Account/Downloads\Thumbs.png.1.png -> C:/Users/My Account/OneDrive/Documents/Images\Thumbs.png.1.png
+2024-11-29 11:51:25,304 - INFO - Copied: C:/Users/My Account/Downloads\ticket cancellation 2.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ticket cancellation 2.jpg
+2024-11-29 11:51:25,308 - INFO - Copied: C:/Users/My Account/Downloads\ticket cancellation.jpg -> C:/Users/My Account/OneDrive/Documents/Images\ticket cancellation.jpg
+2024-11-29 11:51:25,312 - INFO - Copied: C:/Users/My Account/Downloads\Ticket-Global Job Fair-TQ-Y2024E258B19174.png -> C:/Users/My Account/OneDrive/Documents/Images\Ticket-Global Job Fair-TQ-Y2024E258B19174.png
+2024-11-29 11:51:25,317 - INFO - Copied: C:/Users/My Account/Downloads\VirtualBox_MacOS error 2.png -> C:/Users/My Account/OneDrive/Documents/Images\VirtualBox_MacOS error 2.png
+2024-11-29 11:51:25,324 - INFO - Copied: C:/Users/My Account/Downloads\vyavasaya badhratha form 1.jpg -> C:/Users/My Account/OneDrive/Documents/Images\vyavasaya badhratha form 1.jpg
+2024-11-29 11:51:25,328 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2020-11-16 at 3.20.57 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2020-11-16 at 3.20.57 AM.jpeg
+2024-11-29 11:51:25,333 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2021-11-28 at 11.24.41 AM n.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2021-11-28 at 11.24.41 AM n.jpg
+2024-11-29 11:51:25,337 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2021-11-28 at 11.24.41 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2021-11-28 at 11.24.41 AM.jpeg
+2024-11-29 11:51:25,340 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2022-06-16 at 12.21.36 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2022-06-16 at 12.21.36 PM.jpeg
+2024-11-29 11:51:25,343 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2022-08-08 at 4.59.15 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2022-08-08 at 4.59.15 PM.jpeg
+2024-11-29 11:51:25,353 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-02-27 at 2.12.55 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-02-27 at 2.12.55 PM.jpeg
+2024-11-29 11:51:25,357 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-03-31 at 7.24.22 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-03-31 at 7.24.22 PM.jpeg
+2024-11-29 11:51:25,369 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-05-22 at 3.52.30 PM.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-05-22 at 3.52.30 PM.jpg
+2024-11-29 11:51:25,372 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-07-25 at 10.57.58 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-07-25 at 10.57.58 AM.jpeg
+2024-11-29 11:51:25,375 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-08-02 at 12.49.41 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-08-02 at 12.49.41 PM.jpeg
+2024-11-29 11:51:25,379 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-12-29 at 5.09.39 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-12-29 at 5.09.39 PM.jpeg
+2024-11-29 11:51:25,383 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2023-12-29 at 5.27.14 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2023-12-29 at 5.27.14 PM.jpeg
+2024-11-29 11:51:25,389 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-02-06 at 10.35.50 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-02-06 at 10.35.50 PM.jpeg
+2024-11-29 11:51:25,394 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpeg
+2024-11-29 11:51:25,398 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-19 at 8.57.23 PM.jpg
+2024-11-29 11:51:25,403 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-04-20 at 5.34.25 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-04-20 at 5.34.25 PM.jpeg
+2024-11-29 11:51:25,406 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-05-25 at 11.41.36 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-05-25 at 11.41.36 AM.jpeg
+2024-11-29 11:51:25,410 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-02 at 10.08.11 PM (1).jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-02 at 10.08.11 PM (1).jpeg
+2024-11-29 11:51:25,413 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-02 at 10.08.11 PM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-02 at 10.08.11 PM.jpeg
+2024-11-29 11:51:25,417 - INFO - Copied: C:/Users/My Account/Downloads\WhatsApp Image 2024-11-22 at 9.39.34 AM.jpeg -> C:/Users/My Account/OneDrive/Documents/Images\WhatsApp Image 2024-11-22 at 9.39.34 AM.jpeg
+2024-11-29 11:51:25,443 - INFO - Copied: C:/Users/My Account/Downloads\_MG_7975a copy.jpg -> C:/Users/My Account/OneDrive/Documents/Images\_MG_7975a copy.jpg
+2024-11-29 11:51:25,444 - INFO - All files have been copied!.
+2024-11-29 11:52:40,306 - INFO - Created destination directory: C:/Users/My Account/OneDrive/Documents/Test
+2024-11-29 11:52:40,380 - INFO - Full permissions granted to C:/Users/My Account/OneDrive/Documents/Test.
+2024-11-29 11:52:40,381 - INFO - Copying the whole directory.
+2024-11-29 12:15:07,381 - INFO - C:/Users/My Account/OneDrive/Documents/Test is a valid directory.
+2024-11-29 12:15:07,382 - INFO - Copying the whole directory.
+2024-11-29 12:18:01,387 - ERROR - Source Directory does not exists. Invalid path: C:/Users/My Account/Downloads/Test
